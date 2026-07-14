@@ -2,6 +2,8 @@
 
 Draw in thin air with nothing but webcam and hand.
 
+![Air Draw in action](airdraw_demo.gif)
+
 ## Inspiration
 
 This project is inspired by those online teachers who write on a transparent glass board while facing the camera . The writing seems to hang in the air in front of them, perfectly legible, like magic. **Air Draw** recreates that effect at home: instead of a glass board and a marker, your hand becomes the pen and the "ink" is drawn live on top of your webcam feed, letting you sketch, annotate, or teach as if you were writing directly in the air.
