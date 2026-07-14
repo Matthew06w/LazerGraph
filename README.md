@@ -2,7 +2,7 @@
 
 Draw in thin air with nothing but webcam and hand.
 
-![Air Draw in action](airdraw_demo.gif)
+![Air Draw in action](images/airdraw_demo.gif)
 
 ## Inspiration
 
