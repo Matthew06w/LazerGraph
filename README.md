@@ -1,4 +1,4 @@
-# LazerGraft Prototype (Air Draw) ✍️
+# LazerGraph Prototype (Air Draw) ✍️
 
 Draw in thin air with nothing but webcam and hand.
 
